@@ -1,5 +1,5 @@
 # OffChat  
-**A decentralized, off-grid chat system for secure peer-to-peer communicatio**  
+**A decentralized, off-grid chat system for secure peer-to-peer communication**  
 
 OffChat is an experimental **offline-first chat system** designed to enable **communication without relying on centralized servers or the internet**.  
 It is built with **resilience, security, and portability** in mind, making it useful in scenarios such as:  
